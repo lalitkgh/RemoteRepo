@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Jessica Feature A Changes
 
 Johns Feature A Changes- 2 change
 
 Jessicas Feature A Changes- 3 change
+
+Jessicas Feature B Changes
+Johns FeatureBEE Changes 
+
