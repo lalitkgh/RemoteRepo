@@ -4,3 +4,5 @@ Testing branch 2
 
 Conflict Test in branch
 
+Conflict Test in branch2
+
