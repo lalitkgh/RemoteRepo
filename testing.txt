@@ -3,3 +3,6 @@ testing branch
 Testing branch 2
 
 Conflic Test in Master
+Conflict Test in branch
+Conflict Test in branch2
+
