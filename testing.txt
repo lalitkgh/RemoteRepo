@@ -2,11 +2,9 @@ testing branch
 
 Testing branch 2
 
-<<<<<<< HEAD
+
 testing master rebase
-=======
 Conflic Test in Master
 Conflict Test in branch
 Conflict Test in branch2
 
->>>>>>> 5983fd344b00ba34f8ce9ad523ef2ebc424113a7
