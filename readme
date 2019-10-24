@@ -1,7 +1,5 @@
-notepad
-
-Notepad 2
-
-Testing branch
-Update3
-Update4_1
+#! /usr/bin/env ruby
+def hello
+puts 'hello world'
+end
+hello()
