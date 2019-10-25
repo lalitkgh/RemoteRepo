@@ -3,3 +3,4 @@ def hello
 puts 'hello world'
 end
 hello( world ) - LALIT 32
+hello()
